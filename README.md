@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 <!--
 **IvanWang0730/IvanWang0730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
