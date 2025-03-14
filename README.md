@@ -11,7 +11,7 @@
 
 Welcome to my Github page! I am Ivan and I am currently finishing my Computer Engineering Master degree at Fudan university!  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/IvanWang0730/IvanWang0730/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Working at Tabao Mainse Search, Alibaba Group
